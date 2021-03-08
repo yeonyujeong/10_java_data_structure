@@ -1,6 +1,7 @@
 package _06_array_queue;
+
 class ArrayQueue {
-	
+
 	private int front;
 	private int rear;
 	private int queueSize;
